@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Learning DSA<br>🤺 Learning JavaScript and Node.js<br> 😊 Fun Fact 2 + '2' = 22
+🔭 Learning DSA<br>🤺 Learning deep learning and CNN<br> 😊 Fun Fact 2 + '2' = 22
 
 
 ## 🌐 Socials:
